@@ -217,11 +217,12 @@ with aba_sobre_projeto:
     **Integrantes:**  
     - Deivison Dias  
     - Davi Fernandes  
-    - Leonam
+    - Leonam Santos
     - Felipe Mota
     - Lucas dos Santos
-    - Raphael
+    - Raphael Elias
     - Thiago Carvalho
     """)
+
 
     st.image("maquete.png", caption="Maquete do ponto de ônibus com carregador solar", width=350)
